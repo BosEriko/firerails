@@ -7,3 +7,8 @@ This is still a concept for now. This is meant to work alongside Ruby on Rails a
 ```
 gem build firerails.gemspec
 ```
+
+## Run the gem for testing
+```
+irb -Ilib -rhola
+```
